@@ -13,7 +13,8 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=realapeiron&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realapeiron&theme=dracula&hide_border=true&layout=compact">
-<img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=realapeiron&theme=dracula&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=realapeiron&theme=dracula&border=61dafb&hide_border=true&layout=compact" alt="zumrudu-anka" />
 
 Hi 👋 I am a young developer from <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I am a game developer on Roblox but have sufficient knowledge of web development and am a complete developer usually focused on game development and **I am a fullstack Developer**.
 
