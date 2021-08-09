@@ -14,7 +14,6 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realapeiron&theme=dracula&hide_border=true&layout=compact">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=realapeiron&theme=dracula&hide_border=true&layout=compact" alt="zumrudu-anka" />
 
 Hi 👋 I am a young developer from <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I am a game developer on Roblox but have sufficient knowledge of web development and am a complete developer usually focused on game development and **I am a fullstack Developer**.
 
@@ -70,6 +69,6 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Lua" align="center" src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua&logoColor=white" /> <img alt="C#" align="center" src="https://img.shields.io/badge/C%23-blue?style=flat-square&logo=csharp&logoColor=white" />
 
-
+<img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=realapeiron&theme=dracula&hide_border=true&layout=compact" alt="zumrudu-anka" />
 <img src="https://activity-graph.herokuapp.com/graph?username=realapeiron&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 
