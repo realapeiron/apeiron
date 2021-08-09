@@ -6,7 +6,7 @@
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/303503525965463554" target"blank_"><img src="https://img.shields.io/badge/Apeiron%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<a href="https://github.com/realapeiron" target"blank_"><img src="https://img.shields.io/badge/Apeiron%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/realapeiron" target"blank_"><img src="https://img.shields.io/badge/Github%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
