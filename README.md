@@ -2,6 +2,15 @@
 
 <h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" height="20px"></h2>
 
+<div align="center">
+<h3>Contact İnformation</h3>
+<a href="https://discord.com/users/852615172673503262" target"blank_"><img src="https://img.shields.io/badge/Beta%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://open.spotify.com/user/11145406245?si=ca90a1371ab64f8f" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCl1UN9W3Tltin3fuSlyefmg" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/BetaWile" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=realapeiron&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realapeiron&theme=dracula&hide_border=true&layout=compact">
