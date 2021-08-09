@@ -25,6 +25,7 @@ The passion to develop started as a hobby at a young age and now I am always try
 <div align="center">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=realapeiron&theme=dracula" />
 </div>
+
 ### My skills
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
