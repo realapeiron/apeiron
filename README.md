@@ -6,6 +6,7 @@
 <h3>Contact İnformation</h3>
 <a href="https://discord.com/users/303503525965463554" target"blank_"><img src="https://img.shields.io/badge/Apeiron%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/realapeiron" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://twitter.com/apeiron_dev" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 
@@ -17,7 +18,6 @@ Hi 👋 I am a young developer from <img width="20" align="center" src="https://
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
-<a href="https://twitter.com/apeiron_dev" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 
@@ -41,7 +41,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
         <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg" />
         <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/json.svg" />
         <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" />
-        <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/coffescript.svg" />
+        <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/coffeescript.svg" />
         <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/typescript.svg" />
         <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cplusplus.svg" />
         <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/yarn.svg" />
