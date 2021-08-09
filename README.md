@@ -4,9 +4,9 @@
 
 <div align="left">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/303503525965463554" target"blank_"><img src="https://img.shields.io/badge/Apeiron%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://github.com/realapeiron" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://twitter.com/apeiron_dev" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://discord.com/users/303503525965463554" target"blank_"><img alt="Twitter" src="https://img.shields.io/badge/Apeiron%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://github.com/realapeiron" target"blank_"><img alt="Github" src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://twitter.com/apeiron_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 
