@@ -68,6 +68,6 @@ I am able to plan, develop and maintain a full application stack by using the fo
 
 <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Lua" align="center" src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua&logoColor=white" /> <img alt="C#" align="center" src="https://img.shields.io/badge/C%23-blue?style=flat-square&logo=csharp&logoColor=white" />
 
-<p align="center>
-    <img src="https://activity-graph.herokuapp.com/graph?username=realapeiron&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=realapeiron&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+
