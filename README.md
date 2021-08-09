@@ -21,7 +21,7 @@ You can follow me on these platforms to get more information about me and follow
 
 The passion to develop started as a hobby at a young age and now I am always trying to improve my skills, always learning new things in my free times. Currently I am mostly using these technologies to create apps that people use:
 
-<br>
+<br></br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=realapeiron&theme=dracula)](https://github.com/realapeiron)
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
