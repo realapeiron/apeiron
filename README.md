@@ -3,7 +3,7 @@
 <h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" height="20px"></h2>
 
 <div align="left">
-<h3>Contact İnformation</h3>
+<h3>Contact Information</h3>
 <a href="https://discord.com/users/303503525965463554" target"blank_"><img alt="Twitter" src="https://img.shields.io/badge/Apeiron%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/realapeiron" target"blank_"><img alt="Github" src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://twitter.com/apeiron_dev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -15,7 +15,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realapeiron&theme=dracula&hide_border=true&layout=compact">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 
-Hi 👋 I am a young developer from <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I am a game developer on Roblox but have sufficient knowledge of web development and am a complete developer usually focused on game development and **I am a fullstack Developer**.
+Hi 👋 I am a young developer from <img width="20" align="center" src="https://image.flaticon.com/icons/svg/555/555560.svg"> **Turkey**. I am a game developer on Roblox but have sufficient knowledge of web development and Im a complete developer usually focused on game development and **I am a fullstack Developer**.
 
 You can follow me on these platforms to get more information about me and follow news about my projects!
 
