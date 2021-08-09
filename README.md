@@ -68,7 +68,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
 </p>
 
 <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Lua" align="center" src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua&logoColor=white" /> <img alt="C#" align="center" src="https://img.shields.io/badge/C%23-blue?style=flat-square&logo=csharp&logoColor=white" />
-<div>
+<div style="float:left">
 <img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=realapeiron&theme=dracula&hide_border=true&layout=compact" alt="apeiron" /> <img align="right" width="49%" src="https://lanyard-profile-readme.vercel.app/api/303503525965463554" />
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=realapeiron&theme=dracula&hide_border=true&layout=compact" width="100%"/>
