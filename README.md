@@ -23,8 +23,9 @@ The passion to develop started as a hobby at a young age and now I am always try
 
 <br></br>
 <div align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=realapeiron&theme=dracula" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=realapeiron&theme=dracula" />
 </div>
+### My skills
 
 I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
@@ -63,4 +64,5 @@ I am able to plan, develop and maintain a full application stack by using the fo
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sublimetext.svg" />
 </p>
+
 <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="Lua" align="center" src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua&logoColor=white" /> <img alt="C#" align="center" src="https://img.shields.io/badge/C%23-blue?style=flat-square&logo=csharp&logoColor=white" />
